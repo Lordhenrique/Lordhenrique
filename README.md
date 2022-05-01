@@ -1,5 +1,5 @@
-<p>👋 Eu sou o Luiz Henrique Cavalcanti.<p>
-<p>👀 Sou formado em administração. Atualmente curso Análise e Desenvolvimento de Sistemas, com previsão para formação em março de 2023.<p>
+<p>👋 Seja bem vindo, sou o Luiz Henrique Cavalcanti.<p>
+<p>👀 Tenho formação em administração. Atualmente curso Análise e Desenvolvimento de Sistemas, com previsão para formação em março de 2023.<p>
 <P>🌱 Meu foco de desenvolvimento são nas tecnologias Java e Python.<p>
 <p>💞️ Espero no futuro me tornar um Engenheiro/Desenvolvedor de Software com uma visão sistêmica apurada.<p>   
 
